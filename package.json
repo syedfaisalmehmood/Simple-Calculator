@@ -1,5 +1,5 @@
 {
-  "name": "sfm-sample-calculator",
+  "name": "sfm-simple-calculator",
   "version": "1.0.1",
   "description": "this is a simple calculator by using of jscript, TypeSctipt, Node.js and Inquirer",
   "main": "index.js",
